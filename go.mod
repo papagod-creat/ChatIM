@@ -1,6 +1,6 @@
 module chatim
 
-go 1.24.1
+go 1.25.0
 
 require (
 	github.com/apache/rocketmq-client-go/v2 v2.1.2
@@ -9,7 +9,7 @@ require (
 	github.com/go-playground/validator/v10 v10.25.0
 	github.com/golang/protobuf v1.5.4
 	github.com/gorilla/websocket v1.5.3
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/tealeg/xlsx v1.0.5
 	github.com/urfave/cli/v2 v2.27.6
 	github.com/zeromicro/go-zero v1.8.1
@@ -27,7 +27,7 @@ require (
 	github.com/fatih/color v1.18.0 // indirect
 	github.com/fatih/structtag v1.2.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.8 // indirect
-	github.com/go-logr/logr v1.4.2 // indirect
+	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
 	github.com/golang/mock v1.6.0 // indirect
@@ -64,23 +64,23 @@ require (
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	github.com/zeromicro/antlr v1.0.0 // indirect
-	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
-	go.opentelemetry.io/otel v1.35.0 // indirect
+	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
+	go.opentelemetry.io/otel v1.43.0 // indirect
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.35.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.24.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.24.0 // indirect
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.24.0 // indirect
 	go.opentelemetry.io/otel/exporters/zipkin v1.24.0 // indirect
-	go.opentelemetry.io/otel/metric v1.35.0 // indirect
-	go.opentelemetry.io/otel/sdk v1.35.0 // indirect
-	go.opentelemetry.io/otel/trace v1.35.0 // indirect
+	go.opentelemetry.io/otel/metric v1.43.0 // indirect
+	go.opentelemetry.io/otel/sdk v1.43.0 // indirect
+	go.opentelemetry.io/otel/trace v1.43.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.5.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/automaxprocs v1.6.0 // indirect
 	golang.org/x/crypto v0.33.0 // indirect
 	golang.org/x/net v0.35.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
 	golang.org/x/text v0.22.0 // indirect
 	google.golang.org/genproto v0.0.0-20230123190316-2c411cf9d197 // indirect
 	google.golang.org/protobuf v1.36.5 // indirect
